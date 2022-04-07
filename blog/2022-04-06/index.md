@@ -1,4 +1,4 @@
 # woefraofdn
 ## asldfjaslkfjasl
 ### asldkfjaslkfjaslkdfj
-![image](/image.png)
+![image](/blog/2022-04-06/image.png)
