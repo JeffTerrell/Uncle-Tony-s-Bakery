@@ -1,4 +1,4 @@
 # woefraofdn
 ## asldfjaslkfjasl
 ### asldkfjaslkfjaslkdfj
-![image](/assets/image.jpg)
+![image](/image.jpg)
